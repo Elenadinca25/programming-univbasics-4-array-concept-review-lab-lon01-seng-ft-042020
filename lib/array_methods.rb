@@ -9,7 +9,7 @@ while array[i] < array.length
     puts nil
     i += 1
   end
-end
+  i += 1
 end
 
 
